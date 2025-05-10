@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modular Talita PAMI SharedPreferences</string>
+    <string name="gravar">gravar</string>
+    <string name="senha">senha</string>
+    <string name="e_mail">e_mail</string>
+    <string name="login">login</string>
+</resources>
